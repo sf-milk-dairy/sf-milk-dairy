@@ -75,7 +75,7 @@
       </div>
       <div class="product">
         <h3>Fresh Yogurt</h3>
-        <p>Homemade sweet or natural yogurt. Tk 100 per kg.</p>
+        <p>Homemade sweet or natural yogurt. Tk 400 per kg.</p>
       </div>
       <div class="product">
         <h3>Deshi Ghee</h3>
