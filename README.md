@@ -1,58 +1,4 @@
-## Hi there 👋
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SF MILK & DAIRY</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f2f9ff;
-      color: #333;
-    }
-    header {
-      background-color: #0077cc;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    nav {
-      background-color: #005fa3;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    section {
-      padding: 40px;
-    }
-    .products, .contact {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 20px;
-    }
-    .product, .contact-form {
-      background: white;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-    }
-    footer {
-      background: #0077cc;
-      color: white;
-      text-align: center;
-      padding: 20px;
-    }
-  </style>
-</head>
-<body>
-  <header>
+## Hi there ackg
     <h1>SF MILK & DAIRY</h1>
     <p>খাঁটি দুধ, প্রতিদিনের পুষ্টি</p>
   </header>
@@ -93,7 +39,7 @@
       <div class="contact-info">
         <p><strong>Phone:</strong> 01607035404</p>
         <p><strong>Email:</strong> sfmilkbd@gmail.com</p>
-        <p><strong>Location:</strong> Lalbagh, Dhaka</p>
+        <p><strong>Location:</strong> kazipara, Mirpur,Dhaka</p>
       </div>
       <div class="contact-form">
         <form>
